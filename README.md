@@ -1,2 +1,2 @@
 # Herokuapp
-automation Test code - Selenium Webdriver
+automation Test code - Selenium Webdriver, Java, IntelliJ IDEA
